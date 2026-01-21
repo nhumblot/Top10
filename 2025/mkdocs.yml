@@ -48,6 +48,10 @@ plugins:
           default: true
           name: en - English
           build: true
+        - locale: fr
+          default: false
+          name: fr - Français
+          build: true
       nav_translations:
 
         SAMPLE:
@@ -79,9 +83,9 @@ extra:
     - name: en - English
       link: ./en/
       lang: en
-#    - name: de - Deutsch
-#      link: ./de/
-#      lang: de
+    - name: fr - Français
+      link: ./fr/
+      lang: fr
   osib:
     document:     osib.owasp.top10
     version:      2025-0-1
