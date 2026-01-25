@@ -1,33 +1,30 @@
 ![OWASP Logo](../assets/TOP_10_logo_Final_Logo_Colour.png)
 
-# The Ten Most Critical Web Application Security Risks
+# Les dix risques les plus critiques pour la sécurité des applications Web
 
 # Introduction
 
-Welcome to the 8th installment of the OWASP Top Ten! 
+Bienvenue pour cette 8ème édition du Top 10 de l'OWASP !
 
-A huge thank you to everyone who contributed data and perspectives in the survey. Without you, this installment would not have been possible. **THANK YOU!**
+Un grand merci à tous ceux qui ont contribué à cette enquête en fournissant des données et des points de vue. Sans vous, ce volet n'aurait pas pu voir le jour. **MERCI !**
 
+## Présentation du Top 10 OWASP : 2025
 
-## Introducing the OWASP Top 10:2025
-
-
-
-* [A01:2025 - Broken Access Control](A01_2025-Broken_Access_Control.md)
-* [A02:2025 - Security Misconfiguration](A02_2025-Security_Misconfiguration.md)
-* [A03:2025 - Software Supply Chain Failures](A03_2025-Software_Supply_Chain_Failures.md)
-* [A04:2025 - Cryptographic Failures](A04_2025-Cryptographic_Failures.md)
+* [A01:2025 - Contrôles d'accès défaillants](A01_2025-Broken_Access_Control.md)
+* [A02:2025 - Mauvaise configuration de sécurité](A02_2025-Security_Misconfiguration.md)
+* [A03:2025 - Défaillances de la nomenclature logicielle](A03_2025-Software_Supply_Chain_Failures.md)
+* [A04:2025 - Défaillances cryptographiques](A04_2025-Cryptographic_Failures.md)
 * [A05:2025 - Injection](A05_2025-Injection.md)
-* [A06:2025 - Insecure Design](A06_2025-Insecure_Design.md)
-* [A07:2025 - Authentication Failures](A07_2025-Authentication_Failures.md)
-* [A08:2025 - Software or Data Integrity Failures](A08_2025-Software_or_Data_Integrity_Failures.md)
-* [A09:2025 - Security Logging & Alerting Failures](A09_2025-Security_Logging_and_Alerting_Failures.md)
-* [A10:2025 - Mishandling of Exceptional Conditions](A10_2025-Mishandling_of_Exceptional_Conditions.md)
+* [A06:2025 - Conception non sécurisée](A06_2025-Insecure_Design.md)
+* [A07:2025 - Défaillances de l'authentification](A07_2025-Authentication_Failures.md)
+* [A08:2025 - Manque d'intégrité des données ou du logiciel](A08_2025-Software_or_Data_Integrity_Failures.md)
+* [A09:2025 - Carence des systèmes de contrôle et d'alerte](A09_2025-Security_Logging_and_Alerting_Failures.md)
+* [A10:2025 - Mauvaise gestion des exceptions](A10_2025-Mishandling_of_Exceptional_Conditions.md)
 
 
-## What's changed in the Top 10 for 2025
+## Ce qui a changé dans le Top 10 en 2025
 
-There are two new categories and one consolidation in the Top Ten for 2025. We’ve worked to maintain our focus on the root cause over the symptoms as much as possible. With the complexity of software engineering and software security, it’s basically impossible to create ten categories without some level of overlap.
+Il y a deux nouvelles catégories et une consolidation dans le Top 10 pour 2025. Nous nous sommes efforcés de rester, autant que possible, concentrés sur les causes racines plutôt que sur les symptômes. Compte tenu de la complexité du génie logiciel et de la sécurité logicielle, il est pratiquement impossible de créer dix catégories sans un certain degré de chevauchement.
 
 ![Mapping](../assets/2025-mappings.png)
 
